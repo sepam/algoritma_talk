@@ -2,7 +2,7 @@
 
 
 
-<img src="images/kickstart.png" alt="Drawing" width="800" height="600"/>
+<img src="images/kickstart.png" alt="Drawing" align="middle" width="400" height="300"/>
 
 
 
