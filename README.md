@@ -1,8 +1,10 @@
-# Algoritma's Kickstart Series: Data Science Career Guide.
+## Algoritma's Kickstart Series: Data Science Career Guide.
 
 
 
-<img src="images/kickstart.png" alt="Drawing" style="width: 10px;"/>
+<img src="images/kickstart.png" alt="Drawing" width="50" height="50"/>
+
+
 
 
 
