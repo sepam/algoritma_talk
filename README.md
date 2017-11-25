@@ -2,7 +2,7 @@
 
 
 
-<div style="text-align:center"><img src="images/kickstart.png" alt="Drawing" width="400" height="300"/></div>
+<img src="images/kickstart.png" align="middle" alt="Drawing" width="400" height="300"/>
 
 
 
